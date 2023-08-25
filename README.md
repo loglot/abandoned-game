@@ -1,9 +1,3 @@
-# Yet Another Collectathon
+# some things get abandoned
 
-## features
-moving,
-collecting coins
-
-it's simple, but it works
-
-play online at https://yacg-host.github.io/
+this was a 2d platformer like redball, i just lost interest in this project and the code was very hard to understand at that scale, and there were seemingly unfixable bugs everywhere 
